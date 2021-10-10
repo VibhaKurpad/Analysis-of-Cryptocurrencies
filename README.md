@@ -1,10 +1,10 @@
 # Analysis-of-Cryptocurrencies
 Project for the Data Analysis Course
 
-Team Name: Bits_Please
-Team Members: Vibha Kurpad (PES1201800158)
-Shreya Sri (PES1201800132)
-Mahah Sadique (PES1201801529)
+- Team Name: Bits_Please
+- Team Members: Vibha Kurpad (PES1201800158)
+- Shreya Sri (PES1201800132)
+- Mahah Sadique (PES1201801529)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## AIM
@@ -44,9 +44,9 @@ explored were Simple Moving Average, Exponential Smoothing as well as ARIMA mode
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## USER GUIDE:
-Save all the notebooks (and associated csv files) in the same directory.
-Make sure to have all the required modules provided in requirements.txt file.
-Simply run each cell using the preferred python notebook interface.
+- Save all the notebooks (and associated csv files) in the same directory.
+- Make sure to have all the required modules provided in requirements.txt file.
+- Simply run each cell using the preferred python notebook interface.
 
 To install the required modules:
 	`Using pip: pip install -r requirements.txt`
