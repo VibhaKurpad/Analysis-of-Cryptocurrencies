@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+statsmodels
+seaborn
+mpl_finance
